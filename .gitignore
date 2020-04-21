@@ -27,7 +27,6 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-keys.ts
 
 # misc
 /.sass-cache
@@ -42,3 +41,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+/keys.ts
